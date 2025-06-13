@@ -38,6 +38,9 @@ for i in my_set:
     print(i);
 
 #adding new value
-my_list1.append 
-my_set.add    
-
+my_list1.append(6)
+my_set.add(5)  
+my_dictinory1['d']=4 
+print(my_list1)
+print(my_set)
+print(my_dictinory1)
