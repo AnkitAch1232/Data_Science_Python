@@ -53,3 +53,8 @@ del my_dictinory1['d']
 print(my_list1)
 print(my_set)
 print(my_dictinory1)
+
+
+#changing list values
+my_list2[1] = "NNa"
+print(my_list2)
